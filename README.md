@@ -32,3 +32,5 @@ an ending
 ============
 
 i hope that helps clarify my goals. any contributions you can make will be greatly appreciated and awarded with good will thoughts of giving you a cookie. because if you help me with this, you deserve a cookie. maybe two.
+
+view my more serious website design and development work: https://timothyreavis.io/
